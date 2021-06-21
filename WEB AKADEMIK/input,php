@@ -1,0 +1,7 @@
+<form action="input2.php" method="post">
+	 Nama : <input type="text" name="nama">
+	 Alamat :<input type="text" name="alamat">
+
+	 <input type="submit" name="simpan" value="simpan">
+
+	</form>
